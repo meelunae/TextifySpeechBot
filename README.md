@@ -9,3 +9,6 @@
 
 ###### Other utilities
 - ffmpeg 
+
+## Usage
+Clone the project, install the required modules and utilities, add your token to line 13 (obtainable through @BotFather), and run!
